@@ -1,4 +1,4 @@
-### Hi there! My name is Ben
+### Hi there! I'm Ben, nice to meet ya! :D
 
 - 👤 Pronouns: he/him
 - 🎓 Current studies: 3rd Year undergraduate CS major at the University of British Columbia
