@@ -1,5 +1,4 @@
 ## Hi there! I'm Ben, nice to meet ya! :D
---- 
 ### About me
 
 - 👤 Pronouns: he/him
@@ -7,8 +6,6 @@
 - 💼 Current position: part-time front-end developer at the UBC Faculty of Applied Science
 - 🛠 Current project: personal website (design phase)
 - 📫 How to reach me: ben.lu@ubc.ca
-
----
 
 ### Languages and Tools
 
