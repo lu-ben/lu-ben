@@ -1,11 +1,10 @@
 ## Hi there! I'm Ben, nice to meet ya! :D
 ### About me
 
-- 👤 Pronouns: he/him
-- 🎓 Current studies: 3rd Year undergraduate CS major at the University of British Columbia
-- 💼 Current position: part-time front-end developer at the UBC Faculty of Applied Science
-- 🛠 Current project: personal website (design phase)
-- 📫 How to reach me: ben.lu@ubc.ca
+- 🎓 Current studies: 5th Year CS major at the University of British Columbia
+- 💼 Current position: SWE Intern at Planview Inc. (Back-end)
+- 🛠 Current project: personal website
+- 📫 My email: blu02@student.ubc.ca
 
 ### Languages and Tools
 
