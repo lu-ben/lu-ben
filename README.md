@@ -1,8 +1,8 @@
 ## Hi there! I'm Ben, nice to meet ya! :D
 ### About me
 
-- 🎓 Current studies: 5th Year CS major at the University of British Columbia
-- 💼 Current position: SWE Intern at Planview Inc. (Back-end)
+- 🎓 Current studies: final Year CS major at the University of British Columbia
+- 💼 Current position: SDE Intern at AWS
 - 🛠 Current project: personal website
 - 📫 My email: blu02@student.ubc.ca
 
